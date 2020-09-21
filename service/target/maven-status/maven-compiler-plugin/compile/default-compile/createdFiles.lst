@@ -1,0 +1,5 @@
+com\app\service\service\EmailService$1.class
+com\app\service\exception\EmailServiceException.class
+com\app\service\service\OrdersService.class
+com\app\service\service\EmailService.class
+com\app\service\exception\OrdersServiceException.class

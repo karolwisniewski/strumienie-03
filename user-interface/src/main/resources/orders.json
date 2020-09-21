@@ -1,0 +1,109 @@
+[
+  {
+  "customer": {
+    "name": "A",
+    "surname": "AA",
+    "age": 19,
+    "email": "aaa@wp.pl"
+  },
+  "product": {
+    "name": "A1",
+    "price": 20,
+    "category": "A"
+  },
+  "quantity": 4.2,
+  "orderDate": "2020-05-20"
+
+},
+  {
+    "customer": {
+      "name": "B",
+      "surname": "BB",
+      "age": 19,
+      "email": "bbb@wp.pl"
+    },
+    "product": {
+      "name": "B1",
+      "price": 60,
+      "category": "A"
+    },
+    "quantity": 6.0,
+    "orderDate": "2020-05-20"
+  },
+  {
+    "customer": {
+      "name": "A",
+      "surname": "AA",
+      "age": 19,
+      "email": "aaa@wp.pl"
+    },
+    "product": {
+      "name": "C1",
+      "price": 10,
+      "category": "B"
+    },
+    "quantity": 4.2,
+    "orderDate": "2020-05-20"
+
+  },
+  {
+    "customer": {
+      "name": "C",
+      "surname": "CC",
+      "age": 20,
+      "email": "ccc@wp.pl"
+    },
+    "product": {
+      "name": "C1",
+      "price": 10,
+      "category": "B"
+    },
+    "quantity": 3.0,
+    "orderDate": "2020-04-19"
+  },
+  {
+    "customer": {
+      "name": "D",
+      "surname": "DD",
+      "age": 20,
+      "email": "ddd@wp.pl"
+    },
+    "product": {
+      "name": "D1",
+      "price": 15,
+      "category": "B"
+    },
+    "quantity": 2.0,
+    "orderDate": "2020-03-12"
+  },
+  {
+    "customer": {
+      "name": "E",
+      "surname": "EE",
+      "age": 30,
+      "email": "eee@wp.pl"
+    },
+    "product": {
+      "name": "E1",
+      "price": 160,
+      "category": "C"
+    },
+    "quantity": 3.5,
+    "orderDate": "2020-09-11"
+  },
+  {
+    "customer": {
+      "name": "F",
+      "surname": "FF",
+      "age": 30,
+      "email": "fff@wp.pl"
+    },
+    "product": {
+      "name": "F1",
+      "price": 130,
+      "category": "C"
+    },
+    "quantity": 9.0,
+    "orderDate": "2020-03-22"
+  }
+]
